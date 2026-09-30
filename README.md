@@ -1,5 +1,7 @@
 # 🛰️ Cyber Telemetry Lab
 
+[![▶ LIVE DEMO](https://img.shields.io/badge/%E2%96%B6_LIVE_DEMO-cyber--telemetry--lab-2bd57f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ghani24ep10007-spec.github.io/cyber-telemetry-lab/)
+
 > Dashboard telemetri jaringan interaktif bertema hacker — data disimulasikan sepenuhnya (seeded PRNG), **bukan** telemetri produksi.
 
 ![React](https://img.shields.io/badge/React-19-2bd57f?style=flat-square&logo=react&logoColor=black)
